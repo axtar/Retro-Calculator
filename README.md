@@ -28,7 +28,7 @@
 - 14 digits with decimal points, minus signs and dynamic scientific notation
 -	arbitrary-precision arithmetic up to 32 digits (experimental)
 -	30+ math operations
--	easy nixie replacement
+-	easy tube replacement
 - LED backlighting/underlighting (nixie versions only)
 -	mechanical keyboard with 40 switches
 -	custom keycap legends and colors
