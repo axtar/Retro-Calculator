@@ -3,7 +3,7 @@
 #### This repository contains some information and ideas for building a retro calculator and is provided *as-is* for educational, experimental, and hobbyist purposes only.
 ##
 >[!WARNING]
-> #### This is a hobbyist project; it has not been tested for compliance with electrical, safety, or electromagnetic standards (e.g., CE, FCC).<br>
+> #### This is a hobbyist project. The project has not been tested for compliance with electrical, safety, or electromagnetic standards (e.g., CE, FCC).<br>
 > ### If you choose to build or use the calculator, you are doing so at your own risk.
 
 >[!CAUTION]
