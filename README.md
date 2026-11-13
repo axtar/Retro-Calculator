@@ -19,7 +19,7 @@
 - **Hardware: under construction**
 
 #### Features
-- 6 display types:
+- 6 display types
   - nixie: IN-16, IN-17 and B-5870
   - numitron: IV-9
   - vfd: IV-8
