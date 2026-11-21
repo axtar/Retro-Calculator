@@ -10,12 +10,14 @@
 > <img align="left" width="50" src="Images/warning_sign_small.png" />
 > ### Nixie tubes and associated circuitry operate at potentially dangerous voltages.
 
->[!IMPORTANT]
-> <img align="left" width="100" src="Images/WIP.png" />
-> ### Project status: under construction, untested 
-
 > [!NOTE]
 > - The project is not affiliated with any of the service providers mentioned in this repository.
+
+<br>
+
+<img width="300" src="Images/WIP.png" />
+
+### Project status: under construction, untested 
 
 ##
 #### Hardware Features
