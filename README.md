@@ -11,6 +11,7 @@
 > ### Nixie tubes and associated circuitry operate at potentially dangerous voltages.
 
 >[!IMPORTANT]
+> <img align="left" width="100" src="Images/WIP.png" />
 > ### Project status: under construction, untested 
 
 > [!NOTE]
