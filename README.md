@@ -11,15 +11,12 @@
 > ### Nixie tubes and associated circuitry operate at potentially dangerous voltages.
 
 >[!IMPORTANT]
->Although I wrote the initial firmware myself, it now contains so much AI-generated code that I no longer wish to release it under a specific license or copyright. For this reason, only an AI-generated specification file will be provided.
+> ### Project status: under construction, untested 
 
 > [!NOTE]
 > - The project is not affiliated with any of the service providers mentioned in this repository.
 
 ##
-#### Project Status 
-- **under construction, untested**
-
 #### Hardware Features
 - 6 display types
   - nixie: IN-16, IN-17 and B-5870
