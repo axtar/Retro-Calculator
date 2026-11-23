@@ -7,7 +7,7 @@ The required print area is 240mm x 210mm.
 PLA
 
 ### Support enforcers
-Add the green enforcers when priting the base case part.
+Add support enforcers (green) when priting the base case part.
 ![Enforcers](/Images/enforcers.jpg)
 
 ### Notes
